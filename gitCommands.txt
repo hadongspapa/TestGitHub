@@ -1,0 +1,76 @@
+git --version
+git config --list
+git help config
+git config --help
+ls -al
+git init
+ls
+ls -al
+vi .git
+cd .git/
+ls
+ls -la
+cd ..
+ls
+git status
+git pull
+ls -al
+touch .project
+git status
+vi .gitignore
+git staus
+git status
+git add .gitignore
+git status
+git reset .project
+git status
+ls -al
+git reset .gitignore
+git status
+git add -a
+git add -A
+git status
+git add -A
+git commit -m "Initial Commit "
+git status
+git log
+git remote -v 
+git branch -a
+git diff
+vi README.md 
+git diff
+git status
+git add -A
+git status
+git commit -m "date update" 
+git status
+git pull origin master
+git push origin master
+git branch TestGitHub-dev
+git brance
+git branch
+git checkout TestGitHub-dev 
+ls -al
+git branch
+git checkout master
+git branch
+git checkout TestGitHub-dev 
+ls
+vi README.md 
+git add -a
+git add -A
+git commit -m "description change" 
+git push -u origin TestGitHub-dev 
+git branch -a
+git checkout master
+git branch -a
+git pull origin master
+git branch --merged
+git merge TestGitHub-dev 
+git push origin master
+ls
+git branch -a
+git branch --merged
+git branch -d TestGitHub-dev 
+git branch -a
+git push origin --delete TestGitHub-dev
